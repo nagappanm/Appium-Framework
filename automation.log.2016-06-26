@@ -1,0 +1,12 @@
+2016-06-26 10:27:30 INFO  Scenario_Cart:21 - Executing the Test case GB_05  Order is 1.0
+2016-06-26 10:28:16 INFO  Scenario_Cart:44 - Passed as Actual Result is  Mango - Himayath  and Expected Reult is Mango - Himayath
+2016-06-26 10:38:59 INFO  Scenario_Cart:66 - Executing the Test case GB_08  Order is 1.0
+2016-06-26 10:40:02 INFO  Scenario_Cart:92 - Passed as Actual Result is  There are no items in your basket.  and Expected Reult is There are no items in your basket.
+2016-06-26 10:41:38 INFO  Scenario_Search:20 - Executing the Testcase  GB_01  Order is  1.0
+2016-06-26 10:42:45 INFO  Scenario_Search:38 - Passed as Expected Result is Sorry! There are no products to display. Actual Result is Sorry! There are no products to display.
+2016-06-26 10:42:56 INFO  Scenario_Search:20 - Executing the Testcase  GB_01  Order is  2.0
+2016-06-26 10:43:38 INFO  Scenario_Search:38 - Passed as Expected Result is Sorry! There are no products to display. Actual Result is Sorry! There are no products to display.
+2016-06-26 11:02:39 INFO  Scenario_Search:20 - Executing the Testcase  GB_01  Order is  1.0
+2016-06-26 11:03:18 INFO  Scenario_Search:38 - Passed as Expected Result is Sorry! There are no products to display. Actual Result is Sorry! There are no products to display.
+2016-06-26 11:05:15 INFO  Scenario_Search:? - Executing the Testcase  GB_01  Order is  1.0
+2016-06-26 11:05:50 INFO  Scenario_Search:? - Passed as Expected Result is Sorry! There are no products to display. Actual Result is Sorry! There are no products to display.

@@ -1,0 +1,24 @@
+2016-06-25 11:26:17 INFO  Scenario_Search:18 - Executing the Testcase  GB_01  Order is  1.0
+2016-06-25 11:26:52 INFO  Scenario_Search:40 - Failed as Expected Result is Sorry! There are no products. Actual Result is Sorry! There are no products to display.
+2016-06-25 11:32:39 INFO  Scenario_Search:20 - Executing the Testcase  GB_01  Order is  1.0
+2016-06-25 11:33:18 INFO  Scenario_Search:42 - Failed as Expected Result is Sorry! There are no products. Actual Result is Sorry! There are no products to display.
+2016-06-25 12:30:38 INFO  Scenario_Search:59 - Executing Testcase  GB_02 Order is  1.0
+2016-06-25 12:31:28 INFO  Scenario_Search:82 - Failed as Expected count is 196.0 Actual Result is 196
+2016-06-25 12:33:24 INFO  Scenario_Search:59 - Executing Testcase  GB_02 Order is  1.0
+2016-06-25 12:34:00 INFO  Scenario_Search:78 - Passed as Expected count is 196 Actual Result is 196
+2016-06-25 12:34:05 INFO  Scenario_Search:59 - Executing Testcase  GB_03 Order is  1.0
+2016-06-25 12:34:44 INFO  Scenario_Search:82 - Failed as Expected count is 428 Actual Result is 367
+2016-06-25 12:34:44 INFO  Scenario_Search:59 - Executing Testcase  GB_04 Order is  1.0
+2016-06-25 12:48:39 INFO  Scenario_Search:59 - Executing Testcase  GB_02 Order is  1.0
+2016-06-25 12:49:18 INFO  Scenario_Search:78 - Passed as Expected count is 196 Actual Result is 196
+2016-06-25 12:49:28 INFO  Scenario_Search:59 - Executing Testcase  GB_03 Order is  1.0
+2016-06-25 12:50:06 INFO  Scenario_Search:78 - Passed as Expected count is 367 Actual Result is 367
+2016-06-25 12:50:16 INFO  Scenario_Search:59 - Executing Testcase  GB_04 Order is  1.0
+2016-06-25 12:51:13 INFO  Scenario_Search:78 - Passed as Expected count is 3 Actual Result is 3
+2016-06-25 13:00:54 INFO  Scenario_Search:20 - Executing the Testcase  GB_01  Order is  1.0
+2016-06-25 13:01:28 INFO  Scenario_Search:42 - Failed as Expected Result is Sorry! There are no products. Actual Result is Sorry! There are no products to display.
+2016-06-25 13:04:09 INFO  Scenario_Search:20 - Executing the Testcase  GB_01  Order is  1.0
+2016-06-25 13:04:44 INFO  Scenario_Search:42 - Failed as Expected Result is Sorry! There are no products. Actual Result is Sorry! There are no products to display.
+2016-06-25 13:22:40 INFO  Scenario_Search:20 - Executing the Testcase  GB_01  Order is  1.0
+2016-06-25 13:25:21 INFO  Scenario_Search:20 - Executing the Testcase  GB_01  Order is  1.0
+2016-06-25 13:25:57 INFO  Scenario_Search:43 - Failed as Expected Result is Sorry! There are no products. Actual Result is Sorry! There are no products to display.
